@@ -3878,13 +3878,13 @@ ptyprocess = ">=0.5"
 
 [[package]]
 name = "pg8000"
-version = "1.29.6"
+version = "1.29.8"
 description = "PostgreSQL interface library"
 optional = true
 python-versions = ">=3.7"
 files = [
-    {file = "pg8000-1.29.6-py3-none-any.whl", hash = "sha256:3c7f74843adca879a309c46a880dac797b959db41122eebf59e3e31701dbb8b0"},
-    {file = "pg8000-1.29.6.tar.gz", hash = "sha256:ba39c1196408ebe19b23710823871ba3b694df030c4f7a7e2c49f1512091d142"},
+    {file = "pg8000-1.29.8-py3-none-any.whl", hash = "sha256:962e9d6687f76057bd6d9c9c0f67f503a503216bf60b3a4d71e4cb8c97f8326d"},
+    {file = "pg8000-1.29.8.tar.gz", hash = "sha256:609cfbccea783e15f111cc0cb2f6d4e6b4c349a695c59505a29baba6fc79ffa9"},
 ]
 
 [package.dependencies]
