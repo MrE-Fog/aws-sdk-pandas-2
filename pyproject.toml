@@ -86,8 +86,8 @@ wheel = "^0.38.1"
 # Lint
 black = "^23.1.0"
 boto3-stubs = {version = "^1.26.151", extras = ["athena", "cleanrooms", "chime", "cloudwatch", "dynamodb", "ec2", "emr", "emr-serverless", "glue", "kms", "lakeformation", "logs", "neptune", "opensearch", "opensearchserverless", "quicksight", "rds", "rds-data", "redshift", "redshift-data", "s3", "secretsmanager", "ssm", "sts", "timestream-query", "timestream-write"]}
-doc8 = "^1.0"
-mypy = "^1.0"
+doc8 = "^1.6"
+mypy = "^1.6"
 pylint = "^2.17"
 ruff = "^0.0.270"
 isort = "^5.9.2"
@@ -107,7 +107,7 @@ s3fs = "0.4.2"  # Must be pinned to 0.4.2
 tox = "^4.5.0"
 
 # Docs
-bump2version = "^1.0.1"
+bump2version = "^1.6.1"
 IPython = "^8.10.0"
 jupyterlab = "^3.0"
 nbsphinx = "^0.8.8"
@@ -116,7 +116,7 @@ sphinx = "^6.0"
 sphinx-bootstrap-theme = "^0.8"
 sphinx-copybutton = "^0.5.1"
 pydot = "^1.4.2"
-myst-parser = "^1.0.0"
+myst-parser = "^1.6.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
